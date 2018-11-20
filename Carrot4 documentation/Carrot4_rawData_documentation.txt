@@ -1,0 +1,27 @@
+Carrot4_position_subj**_trial***_(initial distance),(speed change).csv
+Description: time series position data in experimental trial
+Column: leader position(x), leader position(y), follower position(x), follower position(y), time stamp
+row: data in each frame (90Hz)
+
+
+Carrot4_orientation_subj**_trial***_(initial distance),(speed change).csv
+Description: time series orientation data in experimental trial
+Column: follower yaw, follower pitch, follower roll, time stamp
+row: data in each frame (90Hz)
+
+
+Carrot4_position_freewalk_subj**_s*_trial***.csv
+Description: time series position data in freewalk trials
+Column: leader position(x), leader position(y), follower position(x), follower position(y), time stamp
+row: data in each frame (90Hz)
+
+
+Carrot4_orientation_freewalk_subj**_s*_trial***.csv
+Description: time series orientation data in freewalk trials
+Column: follower yaw, follower pitch, follower roll, time stamp
+row: data in each frame (90Hz)
+
+
+
+Carrot4_subjXX_IPD_(eye distance measured by oculus rift).txt
+empty
